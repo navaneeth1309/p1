@@ -1,0 +1,16 @@
+.calculator {
+    background-color: #06f6ea;
+   }
+   
+   .calculator .display {
+    color: #84ef89;
+   }
+   
+   .calculator .buttons button {
+    color: #f5f4f4;
+   }
+   .calculator {
+    width: 200px;
+    margin: auto;
+    display: block;
+   }
